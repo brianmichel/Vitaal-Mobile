@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>avatar1.png</string>
+		<key>currentStatus</key>
+		<string>&quot;Can&apos;t wait to try out my new shoes today!&quot;</string>
+		<key>fullName</key>
+		<string>Insane Bolt</string>
+	</dict>
+	<key>Item 1</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>default_avatar.png</string>
+		<key>currentStatus</key>
+		<string>&quot;Powering the dream, pushing through till morning.&quot;</string>
+		<key>fullName</key>
+		<string>Gevin Kuckin</string>
+	</dict>
+	<key>Item 2</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>avatar1.png</string>
+		<key>currentStatus</key>
+		<string>&quot;I just destroyed the old hill climb course!&quot;</string>
+		<key>fullName</key>
+		<string>Lee Rogers</string>
+	</dict>
+	<key>Item 3</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>default_avatar.png</string>
+		<key>currentStatus</key>
+		<string>&quot;Is it time to eat yet? I&apos;m hungry!&quot;</string>
+		<key>fullName</key>
+		<string>Raymond Calitri</string>
+	</dict>
+	<key>Item 4</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>avatar1.png</string>
+		<key>currentStatus</key>
+		<string>&quot;About to head out for a nice long run, wonder where I&apos;ll go?&quot;</string>
+		<key>fullName</key>
+		<string>Brooke McKim</string>
+	</dict>
+	<key>Item 5</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>default_avatar.png</string>
+		<key>currentStatus</key>
+		<string>&quot;Waiting for the rain to stop over here!&quot;</string>
+		<key>fullName</key>
+		<string>Brian Michel</string>
+	</dict>
+	<key>Item 6</key>
+	<dict>
+		<key>profilePicture</key>
+		<string>avatar1.png</string>
+		<key>currentStatus</key>
+		<string>&quot;Can&apos;t wait until the TdF this year!&quot;</string>
+		<key>fullName</key>
+		<string>Chris Conti</string>
+	</dict>
+</dict>
+</plist>
